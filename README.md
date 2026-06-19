@@ -12,12 +12,12 @@
 </p>
 
 <a target="_blank" align="right">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212745723-c7c386dc-108c-4a50-9c76-0f90afb2c0fa.gif">
+  <img align="right" top="500" height="300" width="350" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212745723-c7c386dc-108c-4a50-9c76-0f90afb2c0fa.gif">
 </a> 
 
 - 🔭 Designing and optimizing **CI/CD** pipelines using **Jenkins, GitLab CI, and GitHub Actions**.
 - 🛡️ **Automated** infrastructure creation with **IaC** (**Terraform, Ansible**)
-- 🚀 Managed **deployments** with **Container Orchestration** (**Docker Swarm, Kubernetes, OpenShift**)
+- 🚀 Managing **deployments** with **Container Orchestration** (**Docker Swarm, Kubernetes, OpenShift**)
 - 📊 Monitoring and Observability (**Prometheus, Grafana, Loki**).
 - ☁️ Experienced in hybrid and multi-cloud environments, managing infrastructure across **on-premise (VMware/Hyper-V) and cloud (Linode, AWS, OCI)**.
 - 📈 Continuously **learning and improving**, self-taughting myself in many technologies and always with commitment to everything I do.
