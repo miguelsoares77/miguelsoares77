@@ -12,7 +12,7 @@
 </p>
 
 <a target="_blank" align="right">
-  <img align="right" top="300" height="300" width="350" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212745723-c7c386dc-108c-4a50-9c76-0f90afb2c0fa.gif">
+  <img align="right" top="300" height="300" width="300" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212745723-c7c386dc-108c-4a50-9c76-0f90afb2c0fa.gif">
 </a> 
 
 - 🔭 Designing and optimizing **CI/CD** pipelines using **Jenkins, GitLab CI, and GitHub Actions**.
