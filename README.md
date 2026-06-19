@@ -11,9 +11,9 @@
   <img src="https://komarev.com/ghpvc/?username=miguelsoares77&label=Profile%20Views&color=63f542&style=flat" alt="Profile Views"/>
 </p>
 
-<a target="_blank" align="right">
-  <img align="right" top="300" height="300" width="300" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212745723-c7c386dc-108c-4a50-9c76-0f90afb2c0fa.gif">
-</a> 
+<div style="background-color: white; display: inline-block; padding: 5px;">
+  <img src="https://user-images.githubusercontent.com/74038190/212745723-c7c386dc-108c-4a50-9c76-0f90afb2c0fa.gif" alt="Descrição" align="right">
+</div>
 
 - 🔭 Designing and optimizing **CI/CD** pipelines using **Jenkins, GitLab CI, and GitHub Actions**.
 - 🛡️ **Automated** infrastructure creation with **IaC** (**Terraform, Ansible**)
