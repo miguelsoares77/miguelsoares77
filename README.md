@@ -33,3 +33,9 @@
     <img src="https://go-skill-icons.vercel.app/api/icons?i=ubuntu,aws,gitlab,terraform,githubactions,jenkins,linux,prometheus,ansible,kubernetes,docker,vscode,git,python,grafana,nginx,elasticsearch,bash,postgresql,openshift,mongodb&theme=light&perline=10" />
   </a>
 </p>
+
+<h2 align="center">Projects 📌</h2>
+
+### [K8s-Tf-Ansible-AWS](https://github.com/miguelsoares77/k8s-tf-ans-aws)
+- IaC for a K8s cluster deployment in AWS. (Terraform, Ansible, Python, Kubernetes, AWS, GitHubActions)
+
