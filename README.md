@@ -19,8 +19,8 @@
 - 🛡️ **Automated** infrastructure creation with **IaC** (**Terraform, Ansible**)
 - 🚀 Managing **deployments** with **Container Orchestration** (**Docker Swarm, Kubernetes, OpenShift**)
 - 📊 Monitoring and Observability (**Prometheus, Grafana, Loki**).
-- ☁️ Experienced in hybrid and multi-cloud environments, managing infrastructure across **on-premise (VMware/Hyper-V) and cloud (Linode, AWS, OCI)**.
-- 📈 Continuously **learning and improving**, self-taughting myself in many technologies and always with commitment to everything I do.
+- ☁️ Experienced in hybrid and multi-cloud environments, managing **on-premise (VMware/Hyper-V) and cloud (Linode, AWS, OCI)** infrastructures.
+- 📈 **Learning and improving**, self-taughting myself in many technologies and always with commitment to everything I do.
 - ✉️ You can contact me: **luis20soares@gmail.com**
 
 <br clear="both"/> 
@@ -39,5 +39,5 @@
 ### [K8s-Tf-Ansible-AWS](https://github.com/miguelsoares77/k8s-tf-ans-aws)
 - IaC for a K8s cluster deployment in AWS. (Terraform, Ansible, Python, Kubernetes, AWS, GitHubActions)
 ### Current
-- Currently on my spare time, I'm developing a Browser MMO game (or tying at least 😂)
+- Currently on my spare time, I'm developing a Browser-based RPG MMO with idle elements (or tying at least 😂)
 
