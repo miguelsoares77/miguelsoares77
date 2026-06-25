@@ -38,4 +38,6 @@
 
 ### [K8s-Tf-Ansible-AWS](https://github.com/miguelsoares77/k8s-tf-ans-aws)
 - IaC for a K8s cluster deployment in AWS. (Terraform, Ansible, Python, Kubernetes, AWS, GitHubActions)
+### Current
+- Currently on my spare time, I'm developing a Browser MMO game (or tying at least 😂)
 
