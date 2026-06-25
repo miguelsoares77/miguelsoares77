@@ -41,3 +41,5 @@
 ### Current
 - Currently on my spare time, I'm developing a Browser-based RPG MMO with idle elements (or tying at least 😂)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
